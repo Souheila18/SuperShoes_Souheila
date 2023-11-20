@@ -1,0 +1,96 @@
+.navbar-expand-lg {
+background-color: rgb(235, 7, 231); 
+color: #FFF;    
+}
+
+#navbarNavAltMarkup {
+justify-content: flex-end;
+}
+
+.fond{
+    background-image: url("file:///Users/sou/Downloads/supershoes-start/images/cordonnier.jpg");
+    display: table-cell;
+    height: 700px;
+    width: 1500px;
+    text-align: center;
+    vertical-align: middle;
+    background-size: 100%;
+    transition: 1.2s;
+}
+
+.down {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    color: #FFF;
+
+}
+ 
+.card-group {
+    height: 50%;
+    width: 50%;
+    border-spacing: 5px 1rem;
+}
+
+.row {
+margin: 80px;
+}
+
+.card-body{
+border: 1px solid rgb(160, 159, 159);
+
+}
+
+h3, h2 {
+    text-align: center;
+}
+
+.col-md-4 {
+    float:right;
+}
+
+.rouded {
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.map{
+    column-count: 2;
+    padding-bottom: 5%;
+    
+}
+
+.coll{
+    width: 400px;
+    height: 204px;
+    float: right;
+margin-right: 180px;
+}
+
+.titre{
+padding: 5%;
+}
+
+.fin{
+    background-color: rgb(235, 7, 231);
+    display: flex;
+    justify-content: center;
+    color : #FFF;
+}
+
+.rouge{
+    background-color: rgb(235, 7, 231);
+}
+
+.gris{
+    background-color: gray;
+}
+
+.btn{
+margin-top: 5%;
+}
+
+.rounded{
+    box-shadow: 20px 15px 15px rgb(235, 7, 231);}
+
